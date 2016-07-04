@@ -1,0 +1,33 @@
+{
+  "name": "alfredoem.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredoem/alfredoem.github.io.git"
+  },
+  "author": "Alfredo EM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfredoem/alfredoem.github.io/issues"
+  },
+  "homepage": "https://github.com/alfredoem/alfredoem.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^1.5.4"
+  },
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "material-design-icons": "^2.2.3",
+    "materialize-css": "^0.97.6"
+  }
+}
